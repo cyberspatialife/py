@@ -1,3 +1,3 @@
 # Python
 
-Files from previous porjects, and practice.
+Files from previous projects, and practice.
